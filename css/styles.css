@@ -1,0 +1,20 @@
+/* button design and hover effect */
+
+#btn{
+    background-color: #f44336;
+    font-size: 16px;
+    padding: 14px 40px;
+    border-radius: 8px;
+    border: 2px solid #5e0c13;  
+    color :cyan;
+    position: relative;
+    display : block;
+    margin : auto;
+    top : 300px;
+    left : auto;
+    box-shadow: 0 1px rgb(14, 3, 3);
+}
+#btn:hover {
+    background-color: #8a0b1c; 
+    color: white;
+  }

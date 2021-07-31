@@ -5,7 +5,9 @@
 - How to use setInterval() for continuous movement of Pac-Man
 - How to stop setInterval()
 
-![Pac-Man Image](./images/PacMan1.png)
+**PacMan**
+
+<img src="./images/PacMan1.png" width="100" height="100">
 
 ## Description
 - Pac-Man starts to move from left to right with interchanging images.
